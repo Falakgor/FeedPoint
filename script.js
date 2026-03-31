@@ -9,4 +9,3 @@ function loginPopup() {
     return false; 
   }
 }
-</script>
