@@ -1,7 +1,6 @@
 FeedPoint – Food Waste to Hunger Connect
 
-Live Demo
-https://your-project-name.vercel.app
+
 
 About
 FeedPoint is a simple web application that connects people who have extra food with those in need.  
